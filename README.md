@@ -33,4 +33,5 @@
         </ul>
     </li>
         <li><code>hw2.pdf</code>: PDF file containing the assignment instructions.</li>
+        <li><code>README.md</code>: This README file.</li>
 </ul>
