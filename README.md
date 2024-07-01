@@ -32,4 +32,5 @@
             <li>zip file containing the final submission.</li>
         </ul>
     </li>
+        <li><code>hw2.pdf</code>: PDF file containing the assignment instructions.</li>
 </ul>
