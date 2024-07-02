@@ -29,7 +29,9 @@
     </li>
   <li><strong>submission/</strong>
         <ul>
-            <li>zip file containing the final submission.</li>
+            <li><code>submission.zip</code>:zip file containing the final submission.</li>
         </ul>
     </li>
+        <li><code>hw2.pdf</code>: PDF file containing the assignment instructions.</li>
+        <li><code>README.md</code>: This README file.</li>
 </ul>
